@@ -2,13 +2,13 @@
 
 Projeto simples em Java para leitura de arquivos Excel (.xlsx) utilizando a biblioteca Apache POI.
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Java 11+
 - Apache POI
 - Maven
 
-## 📦 Dependência Maven
+##  Dependência Maven
 
 Adicione no seu `pom.xml`:
 
